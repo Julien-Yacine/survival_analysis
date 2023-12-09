@@ -1,6 +1,6 @@
 # Survival Analysis
 
-Tes of survival analysis libraries available in Python.
+Tes of survival analysis librairies available in Python.
 
 ## Librairies
 
